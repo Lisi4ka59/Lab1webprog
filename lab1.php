@@ -283,6 +283,7 @@ foreach ($sliceexp as $i){
     $_SESSION["previous"].="<!--exp-->".$i;
 }
 ?>
+
 <a href="#section2">Go to up</a>
 
 </body>
